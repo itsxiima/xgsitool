@@ -26,7 +26,7 @@ Before running the tool, ensure you have the following packages installed:
 Clone the repository and install requirements:
 
 ```bash
-git clone [https://github.com/itsxiima/xgsitool.git](https://github.com/itsxiima/xgsitool.git)
+git clone https://github.com/itsxiima/xgsitool.git
 cd xgsi-tool
 pip3 install -r requirements.txt
 ```
